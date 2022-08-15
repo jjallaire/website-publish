@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jjallaire.github.io/website-publish/posts/post-with-code/index.html</loc>
-    <lastmod>2022-08-15T16:47:39.789Z</lastmod>
+    <loc>https://example.com/posts/post-with-code/index.html</loc>
+    <lastmod>2022-08-15T16:49:15.171Z</lastmod>
   </url>
   <url>
-    <loc>https://jjallaire.github.io/website-publish/posts/welcome/index.html</loc>
-    <lastmod>2022-08-15T16:47:40.044Z</lastmod>
+    <loc>https://example.com/posts/welcome/index.html</loc>
+    <lastmod>2022-08-15T16:49:15.429Z</lastmod>
   </url>
   <url>
-    <loc>https://jjallaire.github.io/website-publish/index.html</loc>
-    <lastmod>2022-08-15T16:47:40.323Z</lastmod>
+    <loc>https://example.com/index.html</loc>
+    <lastmod>2022-08-15T16:49:15.695Z</lastmod>
   </url>
   <url>
-    <loc>https://jjallaire.github.io/website-publish/about.html</loc>
-    <lastmod>2022-08-15T16:47:40.573Z</lastmod>
+    <loc>https://example.com/about.html</loc>
+    <lastmod>2022-08-15T16:49:15.936Z</lastmod>
   </url>
 </urlset>

@@ -1,1 +1,1 @@
-Sitemap: https://jjallaire.github.io/website-publish/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
